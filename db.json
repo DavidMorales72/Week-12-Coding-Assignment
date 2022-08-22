@@ -1,0 +1,53 @@
+{
+	"classes": [
+		{
+			"race": "Dragonborn",
+			"class": "Barbarian",
+			"id": "1"
+		},
+		{
+			"race": "Halfling",
+			"class": "Bard",
+            "id": "2"		},
+		{
+			"race": "Elf",
+			"class": "Cleric",
+            "id": "3"		},
+		{
+			"race": "Orc",
+			"class": "Druid",
+            "id": "4"		},
+		{
+			"race": "Halfling",
+			"class": "Fighter",
+            "id": "5"		},
+		{
+			"race": "Gnome",
+			"class": "Monk",
+            "id": "6"		},
+		{
+			"race": "Elf",
+			"class": "Paladin",
+            "id": "7"		},
+		{
+			"race": "Orc",
+			"class": "Ranger",
+            "id": "8"		},
+		{
+			"race": "Dragonborn",
+			"class": "Rogue",
+            "id": "9"		},
+		{
+			"race": "Human",
+			"class": "Sorcerer",
+            "id": "10"		},
+		{
+			"race": "Gnome",
+			"class": "Warlock",
+            "id": "11"		},
+		{
+			"race": "Human",
+			"class": "Wizard",
+            "id": "12"		}
+	]
+}
